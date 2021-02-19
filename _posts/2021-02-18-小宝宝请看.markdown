@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "小宝宝请看"
+date:   2021-02-18 18:17:32 +0900
+categories: jekyll update
+---
+我的俞欢小宝贝是全宇宙第一可爱小懒惰胚
+
+![WAI](https://camo.githubusercontent.com/84fe63794806697d7192d8034b2c84394e6fcf3d7deba3aa587004d576d9ac4c/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303037594d776f71677931676e72757177626a72396a3331666b326a6b6538312e6a7067){:height="50%" width="50%"}
